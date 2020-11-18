@@ -1,0 +1,21 @@
+################################################################################
+# 
+# One block per a person. Blocks are separated by an empty line. A block is
+# formatted of one or more lines. Each line containt an information unit about
+# the respective person. Information unit is identified by a key, which is on
+# the start of the line. Information unit key is separated by the information
+# with a ':' character. There are the following information unit keys and their
+# meanings:
+# FN - first name
+# MN - middle name
+# LN - last name
+# N - entire person name
+# EM - email
+# R - person role in the project
+#
+################################################################################
+FN: Teodor
+LN: Mamolea
+EM: me0x847206@gmail.com
+EM: Teodor.Mamolea@gmail.com
+R: Application Creator

@@ -1,0 +1,8 @@
+- Read licence in the 'LICENCE' file
+- Read copying in the 'LICENCE' file (yes, this is the same file as for licence)
+- Look at contributors list in the 'CONTRIBUTORS' file
+- Read documentation in the 'doc' directory
+- Samples are in the 'sample' directory
+- Source code is located in the 'source' directory
+- External libraries are located in the 'lib' directory
+- Artifact (pixelis-<version>.jar file) is located in the 'source/target/' directory
